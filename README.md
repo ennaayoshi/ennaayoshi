@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />      
 
-<img src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/header.png?raw=true" alt = "header" width = "100%">
+<img src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/header.png?raw=true" alt = "header" width = "75%">
 
 <h1 align = "center"> 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 </h1> <img width = "18" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/!!.png?raw=true">
 
