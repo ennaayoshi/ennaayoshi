@@ -54,11 +54,11 @@
 <br> 
 
 <h2> Contact Me </h2>
-<a href = "mailto:annelie010410@gmail.com" target="_blank">
+<a href = "mailto:annelie010410@gmail.com" target="blank">
   <img src = "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=#D30445" alt = "Gmail Badge">
 </a> 
-<span>&nbsp; | &nbsp;</span>
-<a href = "https://www.instagram.com/ennaayoshi/" target = "_blank">
+<span> &nbsp; | &nbsp; </span>
+<a href = "https://www.instagram.com/ennaayoshi/" target = "blank">
   <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "Instagram Badge">
 </a>
 
