@@ -5,7 +5,6 @@
 <br>
 <h3 align = "center"> ✩ </h3>
 <br>
-<br>
 <div align = "center">
 <h2> Languages, Control Systems & Tools </h3>
 <p>
