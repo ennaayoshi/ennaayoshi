@@ -27,9 +27,9 @@
   Now, a little about my personal side !! My favorite hobbies are listening to music, gaming and playing my instruments. Special mention for reading and watching movies & series. 
 </p>
 <div>
-  <a href = "https://open.spotify.com/user/kwrc35bk9jsw2wtcqafc6kbjl">
+  <a href = "https://open.spotify.com/user/kwrc35bk9jsw2wtcqafc6kbjl"> </a>
     <img width = "100" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/cd.png?raw=true">
-  </a>
+  </a> 
   <img width = "100" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/headphone.png?raw=true">
   <img width = "80" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/controle2.png?raw=true">
   <img width = "110" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/guitarra2.png?raw=true">
