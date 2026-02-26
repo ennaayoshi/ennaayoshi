@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />      
 
-<img src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/header.png?raw=true" alt = "header" width = "50%" height = "50%">
+<img src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/header.png?raw=true" alt = "header" width = "100%">
 
 <h1 align = "center"> 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 </h1> <img width = "18" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/!!.png?raw=true">
 
@@ -28,8 +28,8 @@
   <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
   <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
   <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
-  <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> <p> | </p>
-  <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mySQL/mySQL-plain.svg" /> <p> | </p>
+  <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> 
+  <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mySQL/mySQL-plain.svg" /> 
   <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
   <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
@@ -54,7 +54,7 @@
 <a href = "mailto:annelie010410@gmail.com" target="_blank">
   <img src = "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=#D30445" alt = "Gmail Badge">
 </a> 
-<p> | </p>
+
 <a href = "https://www.instagram.com/ennaayoshi/" target = "_blank">
   <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "Instagram Badge">
 </a>
