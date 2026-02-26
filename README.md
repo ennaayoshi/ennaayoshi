@@ -30,7 +30,7 @@
   <img width = "90" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/cd.png?raw=true">
   <img width = "90" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/headphone.png?raw=true">
   <img width = "80" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/controle2.png?raw=true">
-  <img width = "90" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/guitarra2.png?raw=true">
+  <img width = "110" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/guitarra2.png?raw=true">
 </div>
 <br> 
 <h2> Contact Me </h2>
