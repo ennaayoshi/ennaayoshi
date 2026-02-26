@@ -1,5 +1,5 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<img src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/header2.png?raw=true" width = "100%" alt = "header" align = "center" style="height: 200px;">
+<img src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/header2.png?raw=true" width = "100%" alt = "header" align = "center" style="height: 215px;">
 <h1 align = "center"> <span> &nbsp;&nbsp</span> 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 </h1> 
 <p align = "center"> Well, Hello !! My name is <b> Anne Lie Bessa Yoshinaga </b>. I'm a girlie software development student from São Paulo, Brazil 🇧🇷. I am currently in high school, doing my best while studying the technological foundations of information technology (IT).</p>
 <br>
