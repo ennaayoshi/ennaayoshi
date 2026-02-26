@@ -1,8 +1,15 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />      
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<img src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/header.png?raw=true" alt = "header" width = "100%">
-
-<h1 align = "center"> 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 </h1> <img width = "55" align = "right" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/!!.png?raw=true">
+<table>
+  <tr>
+    <td>
+      <img src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/header.png?raw=true" alt = "header" width = "100%">
+    </td>
+    <td>
+     <h1 align = "center"> 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 </h1> <img width = "55" align = "right" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/!!.png?raw=true">
+    </td>
+  </tr>
+</table>
 
 <br> <br>
 
