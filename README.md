@@ -34,6 +34,7 @@
 </div>
 <br> 
 <h2> Contact Me </h2>
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=#D30445)](mailto:annelie010410@gmail.com)
 <a href = "annelie010410@gmail.com" target = "_blank">
   <img src = "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=#D30445" alt = "Gmail Badge">
 </a> 
@@ -42,5 +43,5 @@
 </a>
 <br>
 <h3> That's all, thx for visiting my profile !! </h3>
-<img width = "125" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/yoshi2.gif?raw=true">
+<img width = "130" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/yoshi2.gif?raw=true">
 </div>  
