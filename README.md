@@ -2,9 +2,10 @@
 
 <img src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/header.png?raw=true" alt = "header" width = "100%">
 
+<img align = "right" width = "150" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/!!.png?raw=true">
+
 <div> 
   <h1 align = "center"> 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚  </h1> 
-  <img align = "right" width = "150" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/!!.png?raw=true">
 </div>
 
 <br> <br>
