@@ -41,4 +41,4 @@
 <br>
 <h3> That's all, thx for visiting my profile !! </h3>
 <img width = "130" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/yoshi2.gif?raw=true">
-</div>  
+</div>
