@@ -39,6 +39,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=annelie010410@gmail.com" target="_blank"> </a>
   <img src = "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=#D30445" alt = "Gmail Badge">
 </a> 
+<span> &nbsp; &nbsp; </span>
 <a href = "https://www.instagram.com/ennaayoshi/" target = "_blank">
   <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "Instagram Badge">
 </a>
