@@ -29,7 +29,7 @@
   <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
   <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
   <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> <p> | </p>
-  <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain.svg" /> <p> | </p>
+  <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mySQL/mySQL-plain.svg" /> <p> | </p>
   <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
   <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
@@ -42,10 +42,10 @@
 </p>
 
 <div> 
-  <img width = "35" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/cd.png?raw=true">
-  <img width = "35" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/headphone.png?raw=true">
-  <img width = "35" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/controle2.png?raw=true">
-  <img width = "35" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/guitarra2.png?raw=true">
+  <img width = "75" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/cd.png?raw=true">
+  <img width = "75" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/headphone.png?raw=true">
+  <img width = "75" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/controle2.png?raw=true">
+  <img width = "75" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/guitarra2.png?raw=true">
 </div>
 
 <br> 
@@ -53,8 +53,8 @@
 <h2> Contact Me </h2>
 <a href = "mailto:annelie010410@gmail.com" target="_blank">
   <img src = "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=#D30445" alt = "Gmail Badge">
-</a> <p> | </p>
-
+</a> 
+<p> | </p>
 <a href = "https://www.instagram.com/ennaayoshi/" target = "_blank">
   <img src = "https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "Instagram Badge">
 </a>
@@ -62,6 +62,6 @@
 <br>
 
 <h3> That's all, thx for visiting my profile !! </h3>
-<img width = "45" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/yoshi2.gif?raw=true">
+<img width = "85" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/yoshi2.gif?raw=true">
 
 </div>  
