@@ -42,10 +42,10 @@
 </p>
 
 <div> 
-  <img width = "75" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/cd.png?raw=true">
-  <img width = "75" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/headphone.png?raw=true">
-  <img width = "75" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/controle2.png?raw=true">
-  <img width = "75" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/guitarra2.png?raw=true">
+  <img width = "90" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/cd.png?raw=true">
+  <img width = "90" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/headphone.png?raw=true">
+  <img width = "90" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/controle2.png?raw=true">
+  <img width = "90" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/guitarra2.png?raw=true">
 </div>
 
 <br> 
@@ -62,6 +62,6 @@
 <br>
 
 <h3> That's all, thx for visiting my profile !! </h3>
-<img width = "85" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/yoshi2.gif?raw=true">
+<img width = "125" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/yoshi2.gif?raw=true">
 
 </div>  
