@@ -1,7 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <img src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/header2.png?raw=true" alt = "header" width = "100%">
 <div> 
-  <h1 align = "center"> 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙥𝙧𝙤𝙛𝙞𝙡𝙚 </h1> 
+  <h1 align = "center"> 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 </h1> 
 </div>
 <br> <br>
 <p align = "center"> Well, Hello !! My name is <b> Anne Lie Bessa Yoshinaga </b>. I'm a girlie software development student from São Paulo, Brazil 🇧🇷. I am currently in high school, doing my best while studying the technological foundations of information technology (IT).</p>
