@@ -27,7 +27,7 @@
   Now, a little about my personal side !! My favorite hobbies are listening to music, gaming and playing my instruments. Special mention for reading and watching movies & series. 
 </p>
 <div>
-  <a href = "https://open.spotify.com/user/kwrc35bk9jsw2wtcqafc6kbjl"> 
+  <a href="https://open.spotify.com/user/kwrc35bk9jsw2wtcqafc6kbjl"> 
     <img width = "100" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/cd.png?raw=true">
   </a> </a>
   <img width = "100" src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/headphone.png?raw=true">
@@ -37,7 +37,7 @@
 <br> 
 <h2> Contact Me </h2>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=annelie010410@gmail.com" target="_blank">
-  <img src = "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=#D30445" alt = "Gmail Badge">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=#D30445" alt="Gmail Badge">
 </a> 
 </a> 
 <span> &nbsp; &nbsp; </span>
