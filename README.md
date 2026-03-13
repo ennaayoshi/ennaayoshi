@@ -8,7 +8,7 @@
 <div align = "center">
 <h2> Languages, Control Systems & Tools </h3>
 <p>
-  Currently, I am in the process of mastering <b> HTML </b>, <b> CSS </b>, <b> Java <b>,<b> JavaScript </b>, and <b> Python </b>. I use <b> MySQL </b> as my primary database platform. Finally, the control systems I work with most are <b> Git </b> and <b> GitHub </b> for other collaborations.
+  Currently, I am in the process of mastering <b> HTML </b>, <b> CSS </b>, <b> Java </b>,<b> JavaScript </b>, and <b> Python </b>. I use <b> MySQL </b> as my primary database platform. Finally, the control systems I work with most are <b> Git </b> and <b> GitHub </b> for other collaborations.
 </p>
 <br>
 <div>
