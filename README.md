@@ -1,20 +1,21 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <img src = "https://github.com/ennaayoshi/ennaayoshi/blob/main/header2.png?raw=true" width = "100%" alt = "header" align = "center" style="height: 220px;">
 <h1 align = "center"> <span>&nbsp;</span> 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 </h1> 
-<p align = "center"> Hello !! My name is <b> Anne Lie Bessa Yoshinaga </b>. I'm a girl software development student from São Paulo, Brazil 🇧🇷. I am currently in high school, doing my best while studying the technological foundations of information technology (IT).</p>
+<p align = "center"> Hello !! My name is <b> Anne Lie Bessa Yoshinaga </b>. I'm a girl software development student from São Paulo, Brazil 🇧🇷. I am currently in high school, doing my best while studying the technological foundations of information technology <b> (IT) </b>. </p>
 <br>
 <h3 align = "center"> <span>&nbsp;</span> ✩ </h3>
 <br>
 <div align = "center">
 <h2> Languages, Control Systems & Tools </h3>
 <p>
-  Currently, I am in the process of mastering <b> HTML </b>, <b> CSS </b>, <b> JavaScript </b>, and <b> Python </b>. I use <b> MySQL </b> as my primary database platform. Finally, the control systems I work with most are <b> Git </b> and <b> GitHub </b> for other collaborations.
+  Currently, I am in the process of mastering <b> HTML </b>, <b> CSS </b>, <b> Java <b>,<b> JavaScript </b>, and <b> Python </b>. I use <b> MySQL </b> as my primary database platform. Finally, the control systems I work with most are <b> Git </b> and <b> GitHub </b> for other collaborations.
 </p>
 <br>
 <div>
   <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" />
   <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
   <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
+  <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" /> 
   <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" /> 
   <br>
   <img width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
